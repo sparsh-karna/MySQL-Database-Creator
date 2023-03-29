@@ -22,5 +22,5 @@
 >
 > - And this is the table created
 >
-> ![The MySQL Table](D:/GitHub/MySQL-Database-Creator/W.png) 
+> ![The MySQL Table](https://github.com/sparsh-karna/MySQL-Database-Creator/blob/main/W.png?raw=true) 
 
