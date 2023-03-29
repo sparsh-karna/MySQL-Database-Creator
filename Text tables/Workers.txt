@@ -1,0 +1,9 @@
+102     	Sam         	Tones     	33 Elm St.         	Paris
+105     	Sarah         	Ackerman     	440 U.S. 110         	New York
+144     	Manila         	Sengupta     	24 Friends Street     	New Delhi
+210     	George     	Smith     	83 First Street		Howard
+255     	Mary        	Jones     	842 Vine Ave.         	Losantiville
+300     	Robert         	Samuel     	9 Fifth Cross         	Washington
+335     	Henry         	Williams     	12 Moore Street     	Boston
+403     	Ronny 	Lee     	121 Harrison St		New York
+451     	Pat         	Thompson     	11 Red Road         	Paris

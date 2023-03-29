@@ -1,0 +1,9 @@
++-------+----------------+---------+
+| DCODE | DEPARTMENT     | CITY    |
++-------+----------------+---------+
+| D01   | MEDIA          | DELHI   |
+| D02   | MARKETING      | DELHI   |
+| D03   | INFRASTRUCTURE | MUMBAI  |
+| D05   | FINANCE        | KOLKATA |
+| D04   | HUMAN RESOURCE | MUMBAI  |
++-------+----------------+---------+

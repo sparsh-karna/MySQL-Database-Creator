@@ -8,7 +8,7 @@
   3. str
 
 ### Example:
-    > - This is the txt file
+> - This is the txt file
     > 11	RADHE SHYAM	SUPERVISOR	P001	13-SEP-04	23-AUG-81
     > 12	CHANDER NATH	OPERATOR	P003	22-FEB-10	12-JUL-87
     > 13	FIZZA	OPERATOR	P003	14-JUN-09	14-OCT-83

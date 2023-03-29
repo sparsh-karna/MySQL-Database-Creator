@@ -1,0 +1,5 @@
+101         	VOLVO BUS         	160
+102         	AC DELUXE BUS     	150
+103         	ORDINARY BUS     	90
+105         	SUV         	40
+104         	CAR         	20

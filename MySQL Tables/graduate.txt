@@ -1,0 +1,15 @@
++------+----------+---------+------------+---------+------+
+| SNO  | NAME     | STIPEND | SUBJECT    | AVERAGE | DIV  |
++------+----------+---------+------------+---------+------+
+|    1 | KARAN    |     400 | PHYSICS    |      68 | I    |
+|    2 | DIWAKAR  |     450 | COMP. Sc.  |      68 | I    |
+|    3 | DIVYA    |     300 | CHEMISTRY  |      62 | I    |
+|    4 | REKHA    |     350 | PHYSICS    |      63 | I    |
+|    5 | ARJUN    |     500 | MATHS      |      70 | I    |
+|    6 | SABINA   |     400 | CEHMISTRY  |      55 | II   |
+|    7 | JOHN     |     250 | PHYSICS    |      64 | I    |
+|    8 | ROBERT   |     450 | MATHS      |      68 | I    |
+|    9 | RUBINA   |     500 | COMP. Sc.  |      62 | I    |
+|   10 | VIKAS    |     400 | MATHS      |      57 | II   |
+|   11 | KAJOL    |     300 | COMP. Sc.  |      75 | I    |
++------+----------+---------+------------+---------+------+

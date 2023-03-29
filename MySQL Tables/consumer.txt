@@ -1,0 +1,9 @@
++------+--------------+-----------+------+
+| C_ID | ConsumerName | Address   | S_ID |
++------+--------------+-----------+------+
+|    1 | Good Learner | Delhi     | PL01 |
+|    6 | Write Well   | Mumbai    | GP02 |
+|   12 | Topper       | Delhi     | DP01 |
+|   15 | Write & Draw | Delhi     | PL02 |
+|   16 | Motivation   | Bangalore | PL01 |
++------+--------------+-----------+------+

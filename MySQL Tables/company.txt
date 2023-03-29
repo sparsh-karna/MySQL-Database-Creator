@@ -1,0 +1,10 @@
++------+------------+--------+-------------+
+| CID  | NAME       | CITY   | PRODUCTNAME |
++------+------------+--------+-------------+
+|  111 | SONY       | DELHI  | TV          |
+|  222 | NOKIA      | MUMBAI | MOBILE      |
+|  333 | ONIDA      | DELHI  | TV          |
+|  444 | SONY       | MUMBAI | MOBILE      |
+|  555 | BLACKBERRY | MADRAS | MOBILE      |
+|  666 | DELL       | DELHI  | LAPTOP      |
++------+------------+--------+-------------+
